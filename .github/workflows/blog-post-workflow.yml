@@ -36,8 +36,7 @@ jobs:
           for item in items:
               title = item.findtext("title", "").strip()
               link = item.findtext("link", "").strip()
-              date = item.findtext("pubDate", "")[:16].strip()
-              posts += f"- [{title}]({link}) — {date}\n"
+              posts += f"📌 [{title}]({link})\n\n"
 
           with open("README.md", "r", encoding="utf-8") as f:
               content = f.read()
