@@ -2,6 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=378ADD&height=220&section=header&text=👋%20Hi,%20I'm%20LeeSehan&fontSize=50&fontColor=ffffff&fontAlignY=40)
 
+![visitors](https://komarev.com/ghpvc/?username=LeeSehan&color=378ADD&style=flat-square)
+
 <h3>⚡ Tech Stack ⚡</h3>
 
 <p>
@@ -21,6 +23,15 @@
 [![LeeSehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeSehan&hide_title=true&show_icons=true&include_all_commits=true&theme=vue)](https://github.com/LeeSehan)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeSehan&layout=compact&card_width=445&custom_title=Most%20Used%20Languages&show_icons=true&theme=vue)
+
+![Streak](https://streak-stats.demolab.com?user=LeeSehan&theme=vue&hide_border=true)
+
+<br>
+
+<h3>📝 Latest Blog Posts</h3>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <br>
 
