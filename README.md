@@ -26,8 +26,6 @@
 
 ![Streak](https://streak-stats.demolab.com?user=LeeSehan&theme=vue&hide_border=true)
 
-<br>
-
 <h3>📝 Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
