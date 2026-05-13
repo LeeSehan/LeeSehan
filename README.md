@@ -2,8 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=378ADD&height=220&section=header&text=👋%20Hi,%20I'm%20LeeSehan&fontSize=50&fontColor=ffffff&fontAlignY=40)
 
-![visitors](https://komarev.com/ghpvc/?username=LeeSehan&color=378ADD&style=flat-square)
-
 <h3>⚡ Tech Stack ⚡</h3>
 
 <p>
